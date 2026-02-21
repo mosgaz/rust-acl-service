@@ -24,7 +24,7 @@
 2. Установить переменные окружения:
    ```bash
    export DATABASE_URL=postgres://postgres:postgres@127.0.0.1:5432/acl
-   export HTTP_ADDR=0.0.0.0:8080
+   export HTTP_ADDR=0.0.0.0:8853
    export METRICS_ADDR=0.0.0.0:9000
    ```
 3. Запустить сервис:
